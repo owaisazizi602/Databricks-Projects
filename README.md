@@ -1,4 +1,4 @@
-# Databricks-Projects
+# Databricks-Project
 
 ⚙️ Tech Stack
 
